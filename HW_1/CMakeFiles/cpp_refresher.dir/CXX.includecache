@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Desktop/2270/cpp_refresher/console_colors.h
+iostream
+-
+
+/home/user/Desktop/2270/cpp_refresher/cpp_refresher.cc
+cpp_refresher.h
+/home/user/Desktop/2270/cpp_refresher/cpp_refresher.h
+cstring
+-
+
+/home/user/Desktop/2270/cpp_refresher/cpp_refresher.h
+string
+-
+typeinfo
+-
+test_runner.h
+/home/user/Desktop/2270/cpp_refresher/test_runner.h
+
+/home/user/Desktop/2270/cpp_refresher/test.h
+vector
+-
+unordered_map
+-
+
+/home/user/Desktop/2270/cpp_refresher/test_runner.h
+functional
+-
+console_colors.h
+/home/user/Desktop/2270/cpp_refresher/console_colors.h
+test.h
+/home/user/Desktop/2270/cpp_refresher/test.h
+

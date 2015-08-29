@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/user/Desktop/2270/cpp_refresher",
+  "command": "/usr/bin/clang++     -std=c++11 -I/root/thilenius -I/root/thilenius_gen    -o CMakeFiles/cpp_refresher.dir/cpp_refresher.cc.o -c /home/user/Desktop/2270/cpp_refresher/cpp_refresher.cc",
+  "file": "/home/user/Desktop/2270/cpp_refresher/cpp_refresher.cc"
+},
+{
+  "directory": "/home/user/Desktop/2270/cpp_refresher",
+  "command": "/usr/bin/clang++     -std=c++11 -I/root/thilenius -I/root/thilenius_gen    -o CMakeFiles/cpp_refresher.dir/unit_tests.cc.o -c /home/user/Desktop/2270/cpp_refresher/unit_tests.cc",
+  "file": "/home/user/Desktop/2270/cpp_refresher/unit_tests.cc"
+}
+]

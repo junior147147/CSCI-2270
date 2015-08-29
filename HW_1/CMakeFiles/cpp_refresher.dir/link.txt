@@ -1,0 +1,1 @@
+/usr/bin/clang++    -std=c++11    CMakeFiles/cpp_refresher.dir/cpp_refresher.cc.o CMakeFiles/cpp_refresher.dir/unit_tests.cc.o  -o cpp_refresher -rdynamic -lpthread libtesting_framework.a 
