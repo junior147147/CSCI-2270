@@ -52,8 +52,8 @@ void CopyArrayOnHeap(const char* str) {
   // Then clean up memory by freeing the string on the heap.
   // You MUST use "new" and "delete", you cannot use malloc and free.
 
-	int sizecounter = 0;
-	for (int i = 0; i < strlen(str)+1; i++){
+	int sizecounter = 1; //set it to one to include the extra null byte
+	for (int i = 0; str[i] != '\0'; i++){
 		sizecounter ++;
 	} cout << sizecounter<< endl;
 	
